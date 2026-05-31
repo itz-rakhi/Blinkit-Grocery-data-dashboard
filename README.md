@@ -100,8 +100,7 @@ Provides management with a centralized dashboard for quick and informed business
 
 # 📸 Dashboard Preview
 The dashboard provides a clean and interactive interface.The dashboard looks like:-
-
-
+https://github.com/itz-rakhi/Blinkit-Grocery-data-dashboard/blob/main/blinkit%20home%20page.png
 
 ## 🚀 Conclusion
 This Blinkit Grocery Sales Dashboard transforms raw grocery sales data into meaningful business insights through interactive visualizations and KPI tracking. It helps stakeholders monitor performance, identify trends, and make smarter business decisions in the competitive grocery retail market.
